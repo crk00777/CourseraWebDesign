@@ -1,0 +1,28 @@
+h1{
+    color:turquoise;
+    font-size:300%;
+    text-align: center;
+    background: rgb(23, 47, 92);
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h2{
+    color:#666666;
+    background: #00B7EA;
+}
+p{
+    color:green;
+}
+
+nav{
+    font-size:200%;
+    text-align:center;
+    font-variant:small-caps;
+    color: #666666;
+    background:yellowgreen;
+}
+
+footer{
+    background: gray;
+}
